@@ -1,20 +1,3 @@
-Nenhum selecionado
-
-Pular para o conteúdo
-Como usar o E-mail de Ciência da Computação e Sistemas de Informação com leitores de tela
-
-4 de 1.574
-TRAB PYYYYY
-Caixa de entrada
-
-Igor Monteiro Nunes <rgm47538@comp.uems.br>
-Anexos
-08:46 (há 7 horas)
-para mim
-
-
- 1 anexo
-  •  Verificados pelo Gmail
 from collections import deque
 import heapq
 
@@ -534,5 +517,3 @@ while True:
             elif sub_op == 3:
                 caminho = busca_ida_estrela(inicio, objetivo, heuristica)
                 imprimir_caminho(caminho)
-trab.py
-Exibindo trab.py.
